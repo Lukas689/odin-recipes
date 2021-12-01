@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightcoral;
+    color: black;
+    text-align: center;
+}
+* {
+    background-color: cornsilk;
+}
+img {
+    width: 50%;
+    margin: 1px auto;
+    display: block;
+}
+.klasa1 {
+    font-size: 40px;
+}
